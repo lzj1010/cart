@@ -1,0 +1,32 @@
+#cartList tbody td {
+    border: 1px solid #ccc;
+    height: 50px;
+    text-align: center;
+    /*td居中*/
+    display: table-cell;
+    vertical-align: middle
+}
+
+.goods {
+    width: 360px;
+}
+
+.goods span {
+    width: 220px;
+    margin-top: 20px;
+    text-align: left;
+    float: left;
+}
+
+.goods img {
+    float: left;
+    height: 80px;
+}
+
+.shopNumber {
+    width: 260px;
+}
+
+.shopNumber input {
+    text-align: center;
+}

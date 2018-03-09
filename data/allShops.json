@@ -1,0 +1,34 @@
+{
+    "allShops": {
+        "totalMoney": 0,
+        "shopList": [{
+                "shopId": "1001",
+                "shopName": "Casio/卡西欧 EX-TR350",
+                "shopPrice": "299",
+                "shopNumber": 1,
+                "shopImage": "http://www.jsdaima.com/Upload/1415970439/1.jpg"
+            },
+            {
+                "shopId": "1002",
+                "shopName": "Canon/佳能 PowerShot SX50 HS",
+                "shopPrice": "188",
+                "shopNumber": 2,
+                "shopImage": "http://www.jsdaima.com/Upload/1415970439/2.jpg"
+            },
+            {
+                "shopId": "1003",
+                "shopName": "Sony/索尼 DSC-WX300",
+                "shopPrice": "998",
+                "shopNumber": 3,
+                "shopImage": "http://www.jsdaima.com/Upload/1415970439/3.jpg"
+            },
+            {
+                "shopId": "1004",
+                "shopName": "Fujifilm/富士 instax mini 25",
+                "shopPrice": "1836",
+                "shopNumber": 4,
+                "shopImage": "http://www.jsdaima.com/Upload/1415970439/4.jpg"
+            }
+        ]
+    }
+}
